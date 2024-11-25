@@ -85,7 +85,7 @@ RESEARCH_CONFIG = {
         "min_relevance_score": 0.6
     },
     "content": {
-        "max_document_size": 12000,  # Maximum size of research document in characters
+        "max_document_size": 300000,  # Maximum size of research document in characters
         "max_chunk_size": 2000,       # Maximum size of content chunks for processing
         "min_chunk_size": 100         # Minimum size of content chunks to process
     },
